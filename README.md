@@ -5,11 +5,11 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=Ȃ̈M̑̈+KACYTECH+v3.1+C̑̈Ȓ̈Ȇ̈Ȃ̈T̑̈Ȇ̈D̑̈+B̑̈Y̑̈+KAMUNYARO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=Ȃ̈M̑̈+KACYTECH+v3.1+B̑̈Y̑̈+KAMUNYARO)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> Survival is winning frankline everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
+<p align="center"> never give up Kamunyaro cyber techniques (kacytech) is always by your side🤠
 </p>
 
 
@@ -28,11 +28,11 @@
 
 <a><img src='https://i.imgur.com/LyHc3i.gif'/></a>
 ## First fork my repository
-<a href="https://github.com/Keithkeizzah/ALPHA-MD1/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
+<a href="https://github.com/kamztechsource/kacytech-v3.1"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗠𝗘 𝗚𝗘𝗘
 
 **JOIN OUR SUPPORT GROUP**
-- <a href="https://chat.whatsapp.com/BXVmus83Yfq8SjNv63SAhJ" target="_blank">
+- <a href="https://chat.whatsapp.com/GoosEn5ZKdI83Yi4R5spe6" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 ## 𝐏𝐥𝐞𝐚𝐬𝐞 𝐣𝐨𝐢𝐧 𝐦𝐲 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐚𝐧𝐝 𝐠𝐞𝐭 𝐟𝐫𝐞𝐞 𝐜𝐜 𝐚𝐧𝐝 𝐮𝐩𝐝𝐚𝐭𝐞𝐬👇👇
@@ -40,7 +40,7 @@
 
 <p align="centre">
   <a href="https://whatsapp.com/channel/0029ValSyeNIyPtXNpk4Am3W">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/kacytech/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
    
@@ -71,10 +71,10 @@
 
 3, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Kacytech App..
 
-## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  ALPHA 𝐌𝐃
+## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  KACYTECH v3.0
 <h1 align="center">
  
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/ALPHA-MD1&template=https://github.com/keithkeizzah/ALPHA-MD1.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/kamztechsource/kacytech-v3.1-MD1&template=https://github.com/kamztechsource/kacytech-v3.1)***
 
 <br>
 
@@ -86,7 +86,7 @@
 ***༒𝐓𝐀𝐏 𝐎𝐍 𝐓𝐇𝐈𝐒 𝐓𝐀𝐁 𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 KACYTECH 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐀𝐏𝐏😊😊༒***
 
 
-  ***<p align="center"><a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/">
+  ***<p align="center"><a href="https://kacytech-session-bd5cfaec090b.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20KEITH%20TECH%20APP-white?style=for-the-badge&logo=Huncho" width="300" height="38.45"/></a></p>***
 
 
@@ -106,12 +106,12 @@ Contributions to *kacytech v3.1* are welcome! If you have ideas for new features
 ## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
 
 <br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/keithkeizzah)
+[![github](https://github.com/github.png?size=100)](https://github.com/kamztechsource/kacytech-v3.1)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
-[![kacytech GitHub stats](https://github-readme-stats.vercel.app/api?username=keithkeizzah&show_icons=true&theme=radical)](https://github.com/keithkeizzah)
+[![kacytech GitHub stats](https://github-readme-stats.vercel.app/api?username=kamztechsource&show_icons=true&theme=radical)](https://github.com.kamztechsource)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
